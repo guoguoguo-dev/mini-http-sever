@@ -1,4 +1,4 @@
-# - 手写迷你HTTP服务器
+# 手写迷你HTTP服务器
 
 ## 📖 项目简介
 纯Java实现的轻量级Web服务器，不依赖Spring/Tomcat等任何框架，仅用原生Socket和IO流完成HTTP协议解析与响应。
